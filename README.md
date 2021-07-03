@@ -1,4 +1,9 @@
-# vue-cli
+# Notes
+
+## Sample notes app with vuex
+
+## Published in
+https://horigy.github.io/ngerasimov.github.io/notes-with-vuex/
 
 ## Project setup
 ```
